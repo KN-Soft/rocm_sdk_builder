@@ -1,4 +1,4 @@
-export ROCM_HOME=/opt/rocm_571
+export ROCM_HOME=/opt/rocm_612
 export LLVM_HOME=${ROCM_HOME}/llvm
 export HIP_HOME=${ROCM_HOME}
 
